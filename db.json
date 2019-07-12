@@ -5,15 +5,7 @@
     "moods": [{
       "mood": "indicatif",
       "tenses": [{
-        "tense": "presént",
-        "conjugations": [
-          "je donne",
-          "tu donnes",
-          "il/elle/on donne",
-          "nous donnons",
-          "vous donnez",
-          "ils/elles/ons donnent"
-        ]
+        "tense": "presént"
       }]
     }]
   }]
