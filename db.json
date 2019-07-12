@@ -1,0 +1,41 @@
+{ 
+  "verbs": {
+    "conjugation": {
+      "infinitive": "donner",
+      "voice": [{
+        "id": "active",
+        "mood": [{
+          "id": "indicatif",
+          "tense": [{
+            "id": "presént",
+            "number": [{
+              "id": "singulier",
+              "person": [{
+                "id": "first",
+                "value: "je donne"
+              }, {
+                "id": "second",
+                "value: "tu donnes"
+              }, {
+                "id": "third",
+                "value: "il/elle/on donne"
+              }]
+            }, {
+              "id": "pluriel",
+              "person": [{
+                "id": "first",
+                "value: "nous donnons"
+              }, {
+                "id": "second",
+                "value: "vous donnez"
+              }, {
+                "id": "third",
+                "value: "ils/elles/ons donnent"
+              }]
+            }]
+          }]
+        }]
+      }]
+    }
+  }
+}
