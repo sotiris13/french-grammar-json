@@ -1,12 +1,20 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "infinitive": "donner"
+  "infinitive": "donner",
+  "voices": [{
+    "voice": "active",
+    "moods": [{
+      "mood": "indicatif",
+      "tenses": [{
+        "tense": "presént",
+        "conjugations": [
+          "je donne",
+          "tu donnes",
+          "il/elle/on donne",
+          "nous donnons",
+          "vous donnez",
+          "ils/elles/ons donnent"
+        ]
+      }]
+    }]  
+  }]
 }
