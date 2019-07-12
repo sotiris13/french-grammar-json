@@ -1,25 +1,20 @@
-{ 
-  "verb-conjugations": [{
-    "description": "Conjugation of donner, active voice, indicative mood, present tense",
-    "verb-conjugation": {
-      "infinitive": "donner",
-      "voices": [{
-        "voice": "active",
-        "moods": [{
-          "mood": "indicatif",
-          "tenses": [{
-            "tense": "presént",
-            "conjugations": [
-              "je donne",
-              "tu donnes",
-              "il/elle/on donne",
-              "nous donnons",
-              "vous donnez",
-              "ils/elles/ons donnent"
-            ]
-          }]
-        }]
+{
+  "infinitive": "donner",
+  "voices": [{
+    "voice": "active",
+    "moods": [{
+      "mood": "indicatif",
+      "tenses": [{
+        "tense": "presént",
+        "conjugations": [
+          "je donne",
+          "tu donnes",
+          "il/elle/on donne",
+          "nous donnons",
+          "vous donnez",
+          "ils/elles/ons donnent"
+        ]
       }]
-    }  
+    }]
   }]
 }
