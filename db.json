@@ -1,12 +1,3 @@
 {
-  "infinitive": "donner",
-  "voices": [{
-    "voice": "active",
-    "moods": [{
-      "mood": "indicatif",
-      "tenses": [{
-        "tense": "presént"
-      }]
-    }]
-  }]
+  "infinitive": "donner"
 }
